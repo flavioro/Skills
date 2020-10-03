@@ -2,6 +2,8 @@
 
 **Most important skills**
 
+- Divide Problems in Smaller Chunks;
+
 1 - Train logic and data structure; (weekly)
 
 2 - Learn a new design pattern; (weekly)
@@ -16,9 +18,7 @@
 
 7 - Communication and Empathy; (always)
 
-8 - Scientific Method; (always)
-
-9 - Source Control; (always)
+8 - Source Control; (always)
 
 ## 1 - Train logic and data structure; (weekly)##
 
@@ -107,7 +107,3 @@ Why should you explicitly work to enhance your ability to empathize with others?
   Lately when I find myself personally struggling with someone, I remind myself to empathize and I immediately calm myself and accept the situation for what it is.
 - You will be a better leader, a better follower, and most important, a better friend;
   (https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
-
-## 8 - Scientific Method; (always)##
-
-- Divide Problems in Smaller Chunks;
